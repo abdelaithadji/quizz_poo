@@ -1,0 +1,4 @@
+Options +FollowSymlinks
+RewriteEngine On
+RewriteRule ^/get_evaluation.php/$ partie2/controleur/graphique/graphiques.php [L] 
+Redirect permanent /get_evaluation.php/

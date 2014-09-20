@@ -1,0 +1,7 @@
+<!--
+  /* Autor: Abdellah Ait hadji
+   * Quizz:  en POO
+   * Annee 2012/2014
+   * Date de remise 18-05-2014
+   * Page numero 1 (question du quiz, internet et web)
+-->
